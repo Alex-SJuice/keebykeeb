@@ -22,3 +22,4 @@ sandwich mount
 
 2 chips cascaded
 
+bus-powered
